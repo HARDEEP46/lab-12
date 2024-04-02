@@ -55,6 +55,8 @@
 ?>
 			<p><small>© HTML, CSS, and JS Blocks Inc.</small></p>
 		</footer>
+				<script src="../js/gallery.js"></script>
+
 		<!-- IMPORTANT: Add a SCRIPT element below that links to the JavaScript file called 'gallery.js' located inside the 'js' folder - remember that the file path needs to point up one directory! Save this page and upload it to the web server -->
 	</body>
 </html>
